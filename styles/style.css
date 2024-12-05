@@ -71,7 +71,7 @@
 .theme-menu__list {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 14px;
   font-size: 14px;
 }
 
@@ -200,13 +200,13 @@
   flex-direction: column;
   gap: 25px;
   padding: 25px;
-  line-height: 1.2;
   border-block-start: 2px solid var(--accent-color);
 }
 
 .card__content-text {
   font-size: 18px;
   font-variation-settings: var(--text-weight);
+  line-height: 21px;
 }
 
 .card__buttons {
